@@ -1,0 +1,31 @@
+{
+    "project_info": {
+        "project_number": "1005658329571",
+        "project_id": "pancardocrapp",
+        "storage_bucket": "pancardocrapp.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:1005658329571:android:9f2879d07dadf7f8a310d6",
+            "android_client_info": {
+                "package_name": "com.pancardocrapp"
+            }
+        },
+        "oauth_client": [{
+            "client_id": "1005658329571-7vvgt0hqf55spiq8chfn8b3l172rctm6.apps.googleusercontent.com",
+            "client_type": 3
+        }],
+        "api_key": [{
+            "current_key": "AIzaSyBNq-Rf3sT8klFX2HatVqCDnGTy-X-HCfM"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                    "client_id": "1005658329571-7vvgt0hqf55spiq8chfn8b3l172rctm6.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
